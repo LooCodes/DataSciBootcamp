@@ -1,0 +1,24 @@
+1.⁠ ⁠How do you assess the statistical significance of an insight?
+You assess statistical significance by running a hypothesis test (like a t-test or chi-squared test) and calculating a p-value.
+
+2.⁠ ⁠What is the Central Limit Theorem? Explain it. Why is it important?
+No matter what the shape of the population distribution is, if you take a large enough sample size, the sampling distribution of the sample mean will be approximately normal (bell-shaped). It allows us to use normal distribution tools (like z-scores and confidence intervals) even if the underlying data is not normal.
+
+3.⁠ ⁠What is the statistical power?
+The probability that a test will correctly reject a false null hypothesis.
+
+4.⁠ ⁠How do you control for biases?
+You can control for biases by:
+- Randomization: Randomly assign subjects to groups to avoid selection bias.
+- Blinding: Keep subjects and/or researchers unaware of which group someone is in (especially in experiments).
+- Control groups: Compare against a baseline.
+- Standardization: Use consistent procedures and measurements.
+
+5.⁠ ⁠What are confounding variables?
+A confounding variable is a hidden factor that affects both the independent variable and the dependent variable, making it look like there is a relationship when there might not be.
+
+6.⁠ ⁠What is A/B testing?
+A/B testing is an experiment where you compare two versions (A and B) to see which one performs better.
+
+7.⁠ ⁠What are confidence intervals?
+A range of values that is likely to contain the true population parameter with a certain level of confidence (like 95%).
